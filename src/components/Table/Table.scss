@@ -1,0 +1,22 @@
+table {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 80%;
+    border: 1px solid #C5D0E0;
+    border-collapse: collapse;
+
+    thead {
+        td {
+            font-weight: bold;
+            cursor: pointer;
+        }
+    }
+
+    td {
+        border: 1px solid #C5D0E0;
+        border-collapse: collapse;
+        text-align: left;
+        padding: 12px;
+        max-width: 200px;
+    }
+} 
